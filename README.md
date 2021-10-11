@@ -2,7 +2,7 @@
 A Command Line app that facilitates vaccination system.
 
 ----------------------------------------------------------------------------------------------------------------------
-                                          Different tasks to perform:
+                                          Different tasks that it can perform:
 
 
   1. Add Vaccine:
